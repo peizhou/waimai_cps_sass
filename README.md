@@ -7,8 +7,8 @@
 # [http://y.mybei.cn](y.mybei.cn)
 
 # 截图
-  ![在这里插入图片描述](https://img-blog.csdnimg.cn/1a01dfb62b9442dfae35b03a665775ce.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU2OTU3NjEz,size_16,color_FFFFFF,t_70#pic_center)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9dc8bd8eae414a5aa0fbcc18279d8793.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L20wXzU2OTU3NjEz,size_16,color_FFFFFF,t_70#pic_center)
+  ![在这里插入图片描述](https://img.mybei.cn/demo.jpg)
+![在这里插入图片描述](https://img.mybei.cn/demo1.jpg)
 
 
 # 功能列表
